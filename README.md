@@ -39,7 +39,9 @@ Cases: Development and evaluation of the method ALIGN. Available at: [[https://g
 |`materials/ALIGN_Intro_slidedeck_ENG.pdf`|	Facilitator slide deck for running the ALIGN workshop in ENGLISH |
 | `materials/ALIGN_Scenarios_ENG.pdf` |	Card set with scenario cards from different safety-critical domains describing negative consequences of accountability-control misalignment to be used for discussing and deriving design ideas in ENGLISH |
 | `materials/ALIGN_canvas_ENG.pdf` |	Stakeholder canvas for mapping accountability and control for each stakeholder and identifying potential misalignments in ENGLISH |
-|`materials/ALIGN_paper.pdf` | Research paper on the development and evaluation of ALIGN
+|`materials/ALIGN_paper.pdf` | Research paper on the development and evaluation of ALIGN|
+|`materials/ALIGN_illustrations.pdf` | Simple Illustrations of each scenario that can be used as supplementary material for workshops to visualize scenarios|
+
 
 **Who Is ALIGN For?**
 
